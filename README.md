@@ -9,7 +9,7 @@ This project is a FastAPI application for managing job schedules with PostgreSQL
 
 1. **Clone the repository**:
     ```
-    git clone https://github.com/karthik0497/job_schedule_api.git
+    git clone https://github.com/karthik0497/job_APScheduler.git
     ```
 
 2. **Accctivate a virtual environment**:
