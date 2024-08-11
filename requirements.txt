@@ -1,0 +1,7 @@
+fastapi~=0.111.1
+uvicorn
+asyncpg
+psycopg2-binary
+pydantic~=2.8.2
+requests~=2.32.3
+urllib3~=2.2.2
